@@ -93,3 +93,7 @@ a {
 a:hover {
     color: #0056b3;
 }
+
+
+git config --global user.email "muhamadsalmanfahrezi@gmail.com"
+git config --global user.name "FAREZ"
